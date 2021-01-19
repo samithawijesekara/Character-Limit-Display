@@ -1,6 +1,8 @@
 # Character-Limit-Display
 Character limit display with real time typing
 
+💻😍 Online Demo : https://character-limit-display.netlify.app/
+
 ### Table of Content
 -01 [What is this?](#What)</br>
 -02 [What are the technologies used?](#technologies)</br>
